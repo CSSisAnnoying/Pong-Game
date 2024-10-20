@@ -1,5 +1,5 @@
 # This is basically my first Unity Game.
-This is not currently done. All I have is the basic framework for the Menu and non-interactable moving water.
+This game is not done. All I have is the basic framework for the game menu and non-interactable moving water.
 
 This is a recreation of a pong game [I made in scratch](https://scratch.mit.edu/projects/1012057446) a while ago. I am recreating it as practice for Unity.
 
